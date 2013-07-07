@@ -54,7 +54,7 @@ Authors
 
 Copyright and license
 ---------------------
-Copyright 2012 Douglas J Hunley.
+Copyright 2013 Douglas J Hunley.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work
 except in compliance with the License. You may obtain a copy of the License in the
